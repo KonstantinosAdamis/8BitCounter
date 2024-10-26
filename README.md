@@ -7,4 +7,4 @@ https://www.tinkercad.com/things/aKVDMLaPp1q-8-bit-counter
 
 Application:
 
-![1729938168196](https://github.com/user-attachments/assets/a2f917d8-7eef-49e4-8e23-4ebdbf0e600e)
+![1729938168196](https://github.com/user-attachments/assets/ac9aa08c-7e22-4eb5-a532-62615d6aa7c4)
